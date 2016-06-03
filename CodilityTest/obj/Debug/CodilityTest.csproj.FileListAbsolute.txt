@@ -1,0 +1,7 @@
+C:\Users\wendy.zhao\Documents\GitHub\MyCodilitySolutions\CodilityTest\bin\Debug\CodilityTest.dll
+C:\Users\wendy.zhao\Documents\GitHub\MyCodilitySolutions\CodilityTest\bin\Debug\CodilityTest.pdb
+C:\Users\wendy.zhao\Documents\GitHub\MyCodilitySolutions\CodilityTest\bin\Debug\MyCodilitySolutions.dll
+C:\Users\wendy.zhao\Documents\GitHub\MyCodilitySolutions\CodilityTest\bin\Debug\MyCodilitySolutions.pdb
+C:\Users\wendy.zhao\Documents\GitHub\MyCodilitySolutions\CodilityTest\obj\Debug\CodilityTest.csprojResolveAssemblyReference.cache
+C:\Users\wendy.zhao\Documents\GitHub\MyCodilitySolutions\CodilityTest\obj\Debug\CodilityTest.dll
+C:\Users\wendy.zhao\Documents\GitHub\MyCodilitySolutions\CodilityTest\obj\Debug\CodilityTest.pdb

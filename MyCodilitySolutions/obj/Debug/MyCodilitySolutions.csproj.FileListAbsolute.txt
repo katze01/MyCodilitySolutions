@@ -1,0 +1,4 @@
+C:\Users\wendy.zhao\Documents\GitHub\MyCodilitySolutions\MyCodilitySolutions\bin\Debug\MyCodilitySolutions.dll
+C:\Users\wendy.zhao\Documents\GitHub\MyCodilitySolutions\MyCodilitySolutions\bin\Debug\MyCodilitySolutions.pdb
+C:\Users\wendy.zhao\Documents\GitHub\MyCodilitySolutions\MyCodilitySolutions\obj\Debug\MyCodilitySolutions.dll
+C:\Users\wendy.zhao\Documents\GitHub\MyCodilitySolutions\MyCodilitySolutions\obj\Debug\MyCodilitySolutions.pdb
