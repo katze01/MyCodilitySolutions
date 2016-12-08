@@ -47,6 +47,7 @@
     <Compile Include="Challenges\My2014Natrium.cs" />
     <Compile Include="Challenges\My2014Oxygenium.cs" />
     <Compile Include="Challenges\My2014Silicium.cs" />
+    <Compile Include="nnnnnn.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
